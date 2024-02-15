@@ -1,0 +1,10 @@
+#parties {
+    list-style-type: none;
+  }
+  
+  #parties li {
+    border: 1px solid grey;
+    border-radius: 1em;
+    margin: 1em;
+    padding: 1em;
+  }
